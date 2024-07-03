@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVCTestApp2/.vs/MVCTestApp2
+/MVCTestApp2/obj
